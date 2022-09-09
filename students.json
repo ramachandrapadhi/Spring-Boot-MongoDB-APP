@@ -1,0 +1,48 @@
+{
+    "_id" : ObjectId("6319b020828f0c6170ec571f"),
+    "name" : "name1",
+    "stream" : "CS",
+    "fees" : 7000.0,
+    "marks" : 59.18,
+    "_class" : "com.std.document.Student"
+}
+{
+    "_id" : ObjectId("6319b4e0828f0c6170ec5720"),
+    "name" : "name2",
+    "stream" : "ECE",
+    "fees" : 9000.0,
+    "marks" : 70.18,
+    "_class" : "com.std.document.Student"
+}
+{
+    "_id" : ObjectId("6319b510828f0c6170ec5721"),
+    "name" : "name3",
+    "stream" : "EEE",
+    "fees" : 6000.0,
+    "marks" : 81.18,
+    "_class" : "com.std.document.Student"
+}
+{
+    "_id" : ObjectId("6319b52c828f0c6170ec5722"),
+    "name" : "name4",
+    "stream" : "IS",
+    "fees" : 4000.0,
+    "marks" : 52.18,
+    "_class" : "com.std.document.Student"
+}
+{
+    "_id" : ObjectId("6319b55a828f0c6170ec5723"),
+    "name" : "naeeeeme6",
+    "stream" : "ITI",
+    "fees" : 4500.0,
+    "marks" : 56.79,
+    "_class" : "com.std.document.Student"
+}
+{
+    "_id" : ObjectId("6319b588828f0c6170ec5724"),
+    "name" : "name6",
+    "stream" : "IT",
+    "fees" : 45000.0,
+    "marks" : 66.79,
+    "_class" : "com.std.document.Student"
+}
